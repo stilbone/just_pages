@@ -1,0 +1,23 @@
+{
+  "name": "avia_form",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDepemdencies": {},
+  "description": "",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.0",
+    "postcss": "^8.3.5"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.2.6",
+    "cssnano": "^5.0.6",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-preset-env": "^6.7.0"
+  }
+}
